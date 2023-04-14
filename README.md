@@ -8,17 +8,12 @@ My name is Ricardo and i'm here to share my personal and academic projects!
   
 ## 💻 Technologies & Tools
 
-### Common
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5391FE?style=for-the-badge&logo=Python&logoColor=white)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,c#,py)](https://skillicons.dev)
   
-### Electronics
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberrypi%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+### Electronics & Robotics 
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,ros)](https://skillicons.dev)
   
 ### Cloud
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
 
