@@ -9,13 +9,10 @@ My name is Ricardo and i'm here to share my personal and academic projects!
 ## 💻 Technologies & Tools
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,bash)](https://skillicons.dev)
   
 ### Electronics & Robotics 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ros,arduino)](https://skillicons.dev)
-  
-### Frameworks 
-[![My Skills](https://skillicons.dev/icons?i=flask,tensorflow)](https://skillicons.dev)
 
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux)](https://skillicons.dev)
