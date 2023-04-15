@@ -1,4 +1,4 @@
-# Welcome to my Github profile.
+## ~Hello world 👋
 My name is Ricardo and i'm here to share my personal and academic projects!
 
 <div>
